@@ -1,0 +1,18 @@
+
+    body {
+        background-color: rgb(207, 158, 131);
+    }
+    h1 {
+     color:aqua;
+    }
+       h3 {
+             color:aqua;
+       } 
+
+hr {
+    border-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 10%;
+     }
+
